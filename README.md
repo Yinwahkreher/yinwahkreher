@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Yin Kreher  
 
-I’m a **Learning Experience Designer, Instructional Strategist, and AI Enthusiast**.  
+I’m a **Learning Architext, Learning Experience Designer, Instructional Strategist, and AI Enthusiast**.  
 My passion is designing **human–AI collaborations** that make learning engaging, inclusive, and effective.  
 
 I explore the intersections of:  
